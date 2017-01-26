@@ -2,7 +2,7 @@
 ## Commentaires de base
 Blabla **2017 git class** yoyyo c'est super top. entrer `whisky tourbe --apt-get` barratin lala.
 
-
+blabla pour conflit.
 c
 
 Nouvelles modif
