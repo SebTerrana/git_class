@@ -3,11 +3,7 @@
 Blabla **2017 git class** yoyyo c'est super top. entrer `whisky tourbe --apt-get` barratin lala.
 
 
-jjjjjjjjjjjjjjjjj barra tin pour commit sur pc perso
-
-C
-
-c
+blabla pour conflit.
 
 Nouvelles modif
 
